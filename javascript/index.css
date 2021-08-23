@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: #1e1e1e;
+}
+
+.waves {
+    height: 100vh;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#game {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    padding: 10px;
+    background: #5f5858;
+}
+
