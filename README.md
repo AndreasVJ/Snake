@@ -1,3 +1,3 @@
 # Simple versions of the classic snake game
 
-![image info](./snake.jpg)
+![image info](./snake.png)
